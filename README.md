@@ -39,16 +39,3 @@ Handled via:
 > In simple terms: The model correctly identifies defaults roughly **7 of 10* on public data, which is a strong result for a first competition.
 
 ---
-
-
-## 📂 Repository Structure
-
-├── data/ # Training & test datasets (not included)
-├── notebooks/ # Notebooks for EDA, feature engineering, and model training
-├── src/ # Source code for pipeline
-│ ├── features/ # Feature engineering scripts
-│ ├── models/ # Model training & ensemble scripts
-│ └── utils/ # Helper functions
-├── submission/ # Final submission CSV
-└── README.md # Documentation
-
