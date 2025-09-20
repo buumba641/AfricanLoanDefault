@@ -70,19 +70,6 @@ Pearson correlation heatmap findings:
 
 These correlations highlight which features may influence default risk.
 
----
-
-## Country-Specific Opportunities and Risks Visualization
-
-Bar charts and context annotations summarize country-level lending environments:
-
-- **Kenya**: Opportunities with repeat borrowers and Type_1 loans; risks include inflation and unemployment.
-- **Ghana**: Risks from high inflation and currency depreciation.
-- **Cote d'Ivoire**: Opportunities due to low inflation and robust GDP growth; focus recommended on short-term loans.
-
-This integrates economic context into lending strategies.
-
----
 
 ## Summary of Exploratory Data Analysis Insights
 
@@ -90,10 +77,3 @@ This integrates economic context into lending strategies.
 - Type_1 is the most common loan type, but other types show higher default rates.
 - Loan amounts and durations are positively skewed and moderately correlated with default.
 - Loans are temporally concentrated in 2022.
-- Country analysis highlights Cote d'Ivoire as most favorable, Ghana as most risky, and Kenya as offering targeted opportunities.
-
----
-
-## Overall
-
-The EDA provides a foundational understanding of the data, highlighting loan characteristics, risk factors, and the economic context of lending. These insights are vital for building predictive models and guiding strategic decisions.
